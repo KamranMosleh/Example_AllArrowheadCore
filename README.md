@@ -1,4 +1,4 @@
-# All Arrowhead Core Docker Setup
+# All Arrowhead Core Systems with Docker Setup
 
 This repository provides a self‐contained Docker Compose setup that builds and runs **all Arrowhead Core modules** against a MySQL 8.0 backend. Each core system is configured via external `.properties` files and exposed on its own port for easy local development and testing.
 
