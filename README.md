@@ -32,7 +32,7 @@ This repository provides a self‐contained Docker Compose setup that builds and
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/<your-org>/AllArrowheadCore.git
+   git clone https://github.com/KamranMosleh/Example_AllArrowheadCore.git
    cd AllArrowheadCore
    ```
 2. **(Optional) Fetch latest SQL scripts**  
